@@ -12,8 +12,8 @@ multiplied by the oldAmount. The output is the total cost of both new videos and
 
 """
 #Initialzing the constants 
-new = 3.00
-old = 2.00
+new = 5.00
+old = 9.00
 
 #Requesting the inputs for new and old videos
 newAmount = int(input("Enter the number of new videos: "))
